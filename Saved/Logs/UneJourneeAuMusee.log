@@ -1169,3 +1169,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.27-15.46.29:261][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2022.05.27-15.46.29:273][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2022.05.27-15.46.29:284][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.27-15.47.24:644][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.05.27-15.47.24:686][569]LogSavePackage: Moving 'C:/Users/vaqui/Documents/JourneeAuMusee/Saved/ThirdPersonExampleMap_Auto14A1F003043813A5B467BDCA62E82A1F5.tmp' to 'C:/Users/vaqui/Documents/JourneeAuMusee/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.05.27-15.47.24:688][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.104
+[2022.05.27-15.47.24:688][569]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
