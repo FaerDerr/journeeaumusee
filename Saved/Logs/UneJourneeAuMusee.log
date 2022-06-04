@@ -1371,3 +1371,169 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.04-10.38.30:878][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2022.06.04-10.38.30:904][179]AssetCheck: New page: Asset Save: Door
 [2022.06.04-10.38.30:904][179]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.42.29:623][771]BlueprintLog: New page: Compile Door
+[2022.06.04-10.42.29:662][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.06.04-10.42.30:043][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.42.30:048][813]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/DoorE57295654B0592B3F064BF9DB2395C3F.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.42.30:059][813]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.42.30:059][813]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.42.31:653][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.42.31:656][  3]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door28E3E84A4AF9315DD5F439AFE4643EC6.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.42.31:665][  3]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.42.31:665][  3]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.42.59:297][270]BlueprintLog: New page: Compile Door
+[2022.06.04-10.42.59:333][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.06.04-10.42.59:927][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.42.59:933][334]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/DoorCBF7552D42E135FDB7F03D86898060BD.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.42.59:942][334]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.42.59:942][334]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.43.23:434][ 80]BlueprintLog: New page: Compile Door
+[2022.06.04-10.43.23:471][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.04-10.43.24:021][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.43.24:028][143]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door5016098A487C4BA28035AB80E0383C9D.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.43.24:037][143]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.43.24:037][143]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.47.41:127][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.06.04-10.47.41:128][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.031
+[2022.06.04-10.47.41:128][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/KeyDoor/Door] ([2] browsable assets)...
+[2022.06.04-10.47.41:140][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/KeyDoor/Door.Door]
+[2022.06.04-10.47.41:140][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/KeyDoor/Door]
+[2022.06.04-10.47.41:140][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Autosaves/Game/KeyDoor/Door_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.06.04-10.47.41:147][191]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door_Auto1224F4896438164E02E9B6DA3FD0A5923.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Autosaves/Game/KeyDoor/Door_Auto1.uasset'
+[2022.06.04-10.47.41:147][191]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.06.04-10.48.28:864][180]BlueprintLog: New page: Compile Door
+[2022.06.04-10.48.28:866][180]LogBlueprint: Error: [AssetLog] C:\Users\XXLdu\Documents\GitHub\journeeaumusee\Content\KeyDoor\Door.uasset: [Compiler] The type of  A  is undetermined.  Connect something to  Equal (Enum)  to imply a specific type.
+[2022.06.04-10.48.28:866][180]LogBlueprint: Error: [AssetLog] C:\Users\XXLdu\Documents\GitHub\journeeaumusee\Content\KeyDoor\Door.uasset: [Compiler] The type of  B  is undetermined.  Connect something to  Equal (Enum)  to imply a specific type.
+[2022.06.04-10.48.28:866][180]LogBlueprint: Error: [AssetLog] C:\Users\XXLdu\Documents\GitHub\journeeaumusee\Content\KeyDoor\Door.uasset: [Compiler] The current value of the ' A ' pin is invalid: Unsupported type Wildcard on pin A
+[2022.06.04-10.48.28:866][180]LogBlueprint: Error: [AssetLog] C:\Users\XXLdu\Documents\GitHub\journeeaumusee\Content\KeyDoor\Door.uasset: [Compiler] The current value of the ' B ' pin is invalid: Unsupported type Wildcard on pin B
+[2022.06.04-10.48.28:901][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.06.04-10.49.02:874][199]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonGameMode4CA7ABEA4C1C2350D60B5BBCDE0DEBD8.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2022.06.04-10.49.02:884][199]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2022.06.04-10.49.02:884][199]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.06.04-10.49.33:776][829]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2022.06.04-10.49.33:819][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.06.04-10.49.34:141][861]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonGameModeCC01A27747A32F55D62ADDBD59AE289D.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2022.06.04-10.49.34:151][861]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2022.06.04-10.49.34:151][861]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.06.04-10.49.36:109][ 94]BlueprintLog: New page: Compile Key
+[2022.06.04-10.49.36:147][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.06.04-10.49.36:621][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Key" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Key.uasset" SILENT=true
+[2022.06.04-10.49.36:628][148]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Key9F135B0543787950CBF8ADBD6810EAD2.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Key.uasset'
+[2022.06.04-10.49.36:637][148]AssetCheck: New page: Asset Save: Key
+[2022.06.04-10.49.36:637][148]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Key.Key
+[2022.06.04-10.49.38:364][355]BlueprintLog: New page: Compile Door
+[2022.06.04-10.49.38:400][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.06.04-10.49.39:135][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.49.39:142][438]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/DoorA9A82A374B59B879C3E8D0993354C12A.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.49.39:151][438]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.49.39:151][438]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.50.10:916][  6]LogEditorTransaction: Undo Move Node
+[2022.06.04-10.50.26:797][739]BlueprintLog: New page: Compile Door
+[2022.06.04-10.50.26:836][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.06.04-10.50.27:969][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.50.27:976][864]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door3BC0613B417804308C8040A63287BB14.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.50.27:986][864]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.50.27:986][864]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.50.52:478][694]BlueprintLog: New page: Compile Door
+[2022.06.04-10.50.52:479][694]LogBlueprint: Error: [AssetLog] C:\Users\XXLdu\Documents\GitHub\journeeaumusee\Content\KeyDoor\Door.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2022.06.04-10.50.52:480][694]LogBlueprint: Error: [AssetLog] C:\Users\XXLdu\Documents\GitHub\journeeaumusee\Content\KeyDoor\Door.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.06.04-10.50.52:515][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.04-10.51.27:776][774]BlueprintLog: New page: Compile Door
+[2022.06.04-10.51.27:813][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.06.04-10.51.28:304][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.51.28:311][827]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door52F7A3C747E12D0111BF8EADE7B67CC5.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.51.28:321][827]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.51.28:321][827]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.51.30:968][136]BlueprintLog: New page: Compile Door
+[2022.06.04-10.51.31:005][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.06.04-10.51.31:416][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.51.31:423][179]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door2B3ED28F453712121171ABB69DCB7A86.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.51.31:432][179]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.51.31:432][179]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.52.43:520][740]LogEditorTransaction: Undo Set Scale
+[2022.06.04-10.53.04:012][169]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.04-10.53.20:324][ 86]LogEditorTransaction: Undo Modify Component Scale
+[2022.06.04-10.53.20:484][100]LogEditorTransaction: Undo Modify Component Scale
+[2022.06.04-10.53.20:661][114]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.04-10.53.20:953][143]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.04-10.53.21:103][161]LogEditorTransaction: Undo Set Rotation
+[2022.06.04-10.53.21:248][178]LogEditorTransaction: Undo Set Scale
+[2022.06.04-10.53.21:401][196]LogEditorTransaction: Undo Set Scale
+[2022.06.04-10.53.21:551][214]LogEditorTransaction: Undo Remove Components
+[2022.06.04-10.53.21:703][231]LogEditorTransaction: Undo Add Component
+[2022.06.04-10.54.04:021][268]BlueprintLog: New page: Compile Door
+[2022.06.04-10.54.04:070][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.06.04-10.54.04:385][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.54.04:392][298]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door650FE0FB4F7CA981DFA9B7BF68AC91D8.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.54.04:402][298]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.54.04:402][298]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.54.30:262][381]BlueprintLog: New page: Compile Door
+[2022.06.04-10.54.30:327][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.04-10.54.30:539][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.04-10.54.30:547][400]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/DoorCE1E7AA1473C622D75195B875FC65988.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.04-10.54.30:557][400]AssetCheck: New page: Asset Save: Door
+[2022.06.04-10.54.30:557][400]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.04-10.54.32:390][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.06.04-10.54.32:406][610]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMapBF7BB7274B0A22599037E385900B76F6.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.04-10.54.32:497][610]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltDataC280E3874EC713A1024F26A14E1950F4.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.04-10.54.32:508][610]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.04-10.54.32:508][610]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.04-10.54.32:508][610]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.04-10.54.37:960][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.06.04-10.54.37:976][244]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap25023EF94A2CB1DB6DB2CBB1A8CB99E8.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.04-10.54.38:065][244]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltDataC0F43E5343DEED57978E5D934979956A.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.04-10.54.38:075][244]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.04-10.54.38:075][244]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.04-10.54.38:075][244]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.04-10.54.39:078][364]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.04-10.54.39:083][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.04-10.54.39:083][364]PIE: New page: PIE session: ThirdPersonExampleMap (4 juin 2022 à 14:54:39)
+[2022.06.04-10.54.39:108][364]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.04-10.54.39:117][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008766s)
+[2022.06.04-10.54.39:117][364]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.04-10.54.39:118][364]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2022.06.04-10.54.39:118][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009793s)
+[2022.06.04-10.54.39:145][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.06.04-10.54.39:146][364]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.04-10.54.39:146][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.04-10.54.39:146][364]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.04-10.54.39:146][364]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.04-10.54.39:146][364]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.04-10.54.39:146][364]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.04-10.54.39:148][364]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.04-10.54.39:148][364]LogAudioMixer: Display: 1: FrontRight
+[2022.06.04-10.54.39:154][364]LogAudioMixer: Display: Using Audio Device Casque (3- Arctis 7 Game)
+[2022.06.04-10.54.39:154][364]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.04-10.54.39:154][364]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.04-10.54.39:154][364]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.04-10.54.39:154][364]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.04-10.54.39:154][364]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.04-10.54.39:154][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.04-10.54.39:155][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.04-10.54.39:155][364]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.04-10.54.39:155][364]LogInit: FAudioDevice initialized.
+[2022.06.04-10.54.39:155][364]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.06.04-10.54.39:159][364]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.06.04-10.54.39:161][364]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.04-12.54.39
+[2022.06.04-10.54.39:161][364]LogWorld: Bringing up level for play took: 0.001677
+[2022.06.04-10.54.39:161][364]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.06.04-10.54.39:163][364]PIE: Server logged in
+[2022.06.04-10.54.39:164][364]PIE: Play in editor total start time 0,082 seconds.
+[2022.06.04-10.54.52:679][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.04-10.54.52:679][979]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.04-10.54.52:679][979]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.04-10.54.52:679][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.04-10.54.52:687][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.04-10.54.52:694][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.04-10.54.52:718][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.04-10.54.52:718][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.04-10.54.52:719][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.04-10.54.52:724][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.04-10.54.52:745][980]LogPlayLevel: Display: Destroying online subsystem :Context_25
