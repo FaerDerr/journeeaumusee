@@ -1537,3 +1537,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.04-10.54.52:719][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.04-10.54.52:724][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2022.06.04-10.54.52:745][980]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.06.04-10.55.07:188][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.04-10.55.07:204][274]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMapFD88D4FD4399598186E641B27001DA20.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.04-10.55.07:291][274]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltData232C2738414B04FDD19331B6167E6719.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.04-10.55.07:302][274]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.04-10.55.07:302][274]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.04-10.55.07:302][274]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
