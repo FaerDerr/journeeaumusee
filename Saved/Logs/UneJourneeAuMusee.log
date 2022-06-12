@@ -911,3 +911,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.12-14.04.34:418][638]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.12-14.04.34:418][638]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.06.12-14.04.34:418][638]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.12-14.05.04:384][792]Cmd: MODE GRID=0
+[2022.06.12-14.05.37:587][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.12-14.05.37:610][990]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap266AA3DA4D1160AED128ABB588B73C82.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.12-14.05.37:697][990]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltData7BE3B40241C5047F60783CB7B7DEA0B0.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.12-14.05.37:705][990]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.12-14.05.37:705][990]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.12-14.05.37:705][990]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.12-14.06.25:370][293]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.12-14.06.38:592][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.12-14.06.38:615][865]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMapE403E82E42358A94334E59A70170954E.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.12-14.06.38:702][865]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltData4E75ACEB4FE4D37279C536895B86517B.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.12-14.06.38:710][865]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.12-14.06.38:710][865]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.12-14.06.38:710][865]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.12-14.06.43:876][479]LogSlate: Took 0.001548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.12-14.07.03:658][808]Cmd: TRANSACTION UNDO
+[2022.06.12-14.07.03:658][808]LogEditorTransaction: Undo Set Location
+[2022.06.12-14.07.03:916][827]Cmd: TRANSACTION UNDO
+[2022.06.12-14.07.03:916][827]LogEditorTransaction: Undo Set Scale
+[2022.06.12-14.07.04:197][846]Cmd: TRANSACTION UNDO
+[2022.06.12-14.07.04:197][846]LogEditorTransaction: Undo Set Scale
+[2022.06.12-14.07.04:673][901]Cmd: TRANSACTION UNDO
+[2022.06.12-14.07.04:673][901]LogEditorTransaction: Undo Edit Mobility
+[2022.06.12-14.07.09:442][460]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KeyDoor/Door.Door
+[2022.06.12-14.07.09:549][460]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.06.12-14.07.10:132][460]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.12-14.07.10:898][547]LogRenderer: Reallocating scene render targets to support 1164x708 Format 10 NumSamples 1 (Frame:1).
+[2022.06.12-14.07.35:400][440]LogEditorTransaction: Undo Modify Component Scale
+[2022.06.12-14.08.01:978][587]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.12-14.08.01:978][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.12-14.08.05:020][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.12-14.08.08:234][942]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.12-14.08.09:238][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.06.12-14.08.09:261][ 56]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap2140CCA94ED607C7CC9F3BA657971D57.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.12-14.08.09:348][ 56]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltData07FA8C654381604CE3DFB58299860CD6.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.12-14.08.09:357][ 56]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.12-14.08.09:357][ 56]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.12-14.08.09:357][ 56]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.12-14.08.12:536][437]Cmd: DELETE
+[2022.06.12-14.08.12:536][437]Cmd: ACTOR DELETE
+[2022.06.12-14.08.12:539][437]LogEditorActor: Deleted Actor: Door_C
+[2022.06.12-14.08.12:551][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.12-14.08.12:553][437]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.06.12-14.08.14:199][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.12-14.08.14:207][633]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/DoorC816FAA14D0067BA2B2CDE88AA541FA3.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.12-14.08.14:216][633]AssetCheck: New page: Asset Save: Door
+[2022.06.12-14.08.14:216][633]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.12-14.08.15:250][755]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/KeyDoor/Door.Door
+[2022.06.12-14.08.18:947][152]BlueprintLog: New page: Compile Door
+[2022.06.12-14.08.18:969][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.06.12-14.08.18:986][152]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.12-14.08.19:288][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KeyDoor/Door" FILE="../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset" SILENT=true
+[2022.06.12-14.08.19:295][186]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/Door9E8792A640921EE9429298A75338414C.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/KeyDoor/Door.uasset'
+[2022.06.12-14.08.19:303][186]AssetCheck: New page: Asset Save: Door
+[2022.06.12-14.08.19:303][186]LogContentValidation: Display: Validating Blueprint /Game/KeyDoor/Door.Door
+[2022.06.12-14.08.20:435][320]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.12-14.08.20:435][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.12-14.08.40:075][666]Cmd: TRANSACTION UNDO
+[2022.06.12-14.08.40:076][666]LogEditorTransaction: Undo Move Actors
+[2022.06.12-14.08.40:437][693]Cmd: TRANSACTION UNDO
+[2022.06.12-14.08.40:437][693]LogEditorTransaction: Undo Move Actors
+[2022.06.12-14.08.40:823][733]Cmd: TRANSACTION UNDO
+[2022.06.12-14.08.40:823][733]LogEditorTransaction: Undo Move Actors
+[2022.06.12-14.08.56:890][628]Cmd: STAT FPS
+[2022.06.12-14.09.06:155][719]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_WORLD)
+[2022.06.12-14.09.10:265][207]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door)
+[2022.06.12-14.09.18:190][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.06.12-14.09.18:219][137]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap1A212B67481A897B012D5A8B1B06445D.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.12-14.09.18:308][137]LogSavePackage: Moving '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltData080E5C964AE8EBAE2508D4BD82392139.tmp' to '../../../../../../Users/XXLdu/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.12-14.09.18:319][137]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.12-14.09.18:319][137]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.12-14.09.18:319][137]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
