@@ -1765,3 +1765,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.17-16.22.53:788][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Architecture/PlatformBaseColor_Mat]
 [2022.06.17-16.22.53:793][345]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/PlatformBaseColor_Mat_Auto885C34FC649B850BBCFED95988C8A17A0.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Saved/Autosaves/Game/ART/Architecture/PlatformBaseColor_Mat_Auto8.uasset'
 [2022.06.17-16.22.53:794][345]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.06.17-16.37.51:779][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.17-16.37.51:840][254]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/ThirdPersonExampleMapF543255E47EA49413862E6A40281B6D9.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.17-16.37.51:946][254]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltData25D4041C47942F1B97D9C4BB111F89CB.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.17-16.37.51:955][254]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-16.37.51:956][254]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.17-16.37.51:956][254]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
