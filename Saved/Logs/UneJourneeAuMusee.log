@@ -1754,3 +1754,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.17-16.12.53:655][939]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.17-16.12.53:655][939]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.06.17-16.12.53:655][939]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.17-16.22.53:757][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.17-16.22.53:759][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.006
+[2022.06.17-16.22.53:759][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Architecture/PlatformBaseColor] ([1] browsable assets)...
+[2022.06.17-16.22.53:765][345]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Architecture/PlatformBaseColor.PlatformBaseColor]
+[2022.06.17-16.22.53:765][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Architecture/PlatformBaseColor]
+[2022.06.17-16.22.53:768][345]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/PlatformBaseColor_Auto82B7486EE427E5BB17666C38570682698.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Saved/Autosaves/Game/ART/Architecture/PlatformBaseColor_Auto8.uasset'
+[2022.06.17-16.22.53:769][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Architecture/PlatformBaseColor_Mat] ([1] browsable assets)...
+[2022.06.17-16.22.53:788][345]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Architecture/PlatformBaseColor_Mat.PlatformBaseColor_Mat]
+[2022.06.17-16.22.53:788][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Architecture/PlatformBaseColor_Mat]
+[2022.06.17-16.22.53:793][345]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/PlatformBaseColor_Mat_Auto885C34FC649B850BBCFED95988C8A17A0.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Saved/Autosaves/Game/ART/Architecture/PlatformBaseColor_Mat_Auto8.uasset'
+[2022.06.17-16.22.53:794][345]LogFileHelpers: Auto-saving content packages took 0.035
