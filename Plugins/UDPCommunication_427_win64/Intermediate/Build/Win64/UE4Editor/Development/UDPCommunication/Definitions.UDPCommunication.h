@@ -49,8 +49,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME udptest
-#define UE_TARGET_NAME udptestEditor
+#define UE_PROJECT_NAME UneJourneeAuMusee
+#define UE_TARGET_NAME UneJourneeAuMuseeEditor
 #define UE_MODULE_NAME "UDPCommunication"
 #define UE_PLUGIN_NAME "UDPCommunication"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

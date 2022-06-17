@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UDPCommunication-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Intermediate\Build\Win64\UneJourneeAuMuseeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Module.UDPCommunication.cpp.obj"
+"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Module.UDPCommunication.gen.cpp.obj"
+"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Default.rc2.res"
+/OUT:"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\UE4Editor-UDPCommunication-0002.lib"

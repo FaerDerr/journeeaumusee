@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Private"
+/I "C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -232,10 +232,10 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Inc\UDPCommunication"
-/I "C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Source"
-/I "C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes"
-/I "C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public"
+/I "C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Inc\UDPCommunication"
+/I "C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Source"
+/I "C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes"
+/I "C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public"
 /I Runtime\Networking\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\Darwin\Documents\Unreal Projects\udptest\Intermediate\Build\Win64\udptestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Darwin\Documents\Unreal Projects\udptest\Intermediate\Build\Win64\udptestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Darwin\Documents\Unreal Projects\udptest\Intermediate\Build\Win64\udptestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Module.UDPCommunication.gen.cpp"
-/FI"C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Definitions.UDPCommunication.h"
-/Fo"C:\Users\Darwin\Documents\Unreal Projects\udptest\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Module.UDPCommunication.gen.cpp.obj"
+/FI"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Intermediate\Build\Win64\UneJourneeAuMuseeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Intermediate\Build\Win64\UneJourneeAuMuseeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Intermediate\Build\Win64\UneJourneeAuMuseeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Module.UDPCommunication.gen.cpp"
+/FI"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Definitions.UDPCommunication.h"
+/Fo"C:\Users\Darwin\Documents\Unreal Projects\journeeaumusee\Plugins\UDPCommunication_427_win64\Intermediate\Build\Win64\UE4Editor\Development\UDPCommunication\Module.UDPCommunication.gen.cpp.obj"
 /TP
 /GR-
 /W4

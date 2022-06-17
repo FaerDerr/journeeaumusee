@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UDPCommunication.cpp.obj": [
+			"UDPCommunication.cpp.obj",
+			"UDPReceiver.cpp.obj",
+			"UDPSender.cpp.obj"
+		],
+		"Module.UDPCommunication.gen.cpp.obj": [
+			"UDPCommunication.init.gen.cpp.obj",
+			"UDPData.gen.cpp.obj",
+			"UDPReceiver.gen.cpp.obj",
+			"UDPSender.gen.cpp.obj"
+		]
+	}
+}
