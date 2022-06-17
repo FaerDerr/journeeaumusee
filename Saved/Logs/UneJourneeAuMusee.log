@@ -1771,3 +1771,258 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.17-16.37.51:955][254]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.17-16.37.51:956][254]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.06.17-16.37.51:956][254]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.17-16.43.13:658][744]LogSlate: Took 0.006505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.17-16.43.16:012][ 11]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.06.17-16.43.16:016][ 11]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.06.17-16.44.21:203][828]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/ArmatureBaseColor.ArmatureBaseColor
+[2022.06.17-16.44.21:203][828]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/wood-texture-cedar-panel-house-exterior-red.wood-texture-cedar-panel-house-exterior-red
+[2022.06.17-16.44.21:203][828]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/brick-texture-small-large-rough-surface-wall-photo.brick-texture-small-large-rough-surface-wall-photo
+[2022.06.17-16.44.21:203][828]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures.Finnish-Grey-Brick-Flemish-Architextures
+[2022.06.17-16.44.21:203][828]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/PlatformBaseColor.PlatformBaseColor
+[2022.06.17-16.44.21:203][828]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/triangled_roof_tiles_baked.triangled_roof_tiles_baked
+[2022.06.17-16.44.21:203][828]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/unknown.unknown
+[2022.06.17-16.44.21:203][828]AssetCheck: Data validation SUCCEEDED.
+[2022.06.17-16.44.21:203][828]AssetCheck: Files Checked: 7, Passed: 7, Failed: 0, Skipped: 0, Unable to validate: 0
+[2022.06.17-16.44.21:352][828]LogSlate: Took 0.046510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.17-16.44.23:945][131]LogSlate: Window 'Message Log' being destroyed
+[2022.06.17-16.44.23:949][131]LogSlate: Window 'Message Log' being destroyed
+[2022.06.17-16.44.30:683][870]LogEditorFactories: Performing atomic reimport of [D:/Inspiring/3D/Musee/Museum/ArmatureBaseColor.png]
+[2022.06.17-16.44.30:684][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Inspiring/3D/Musee/Museum/ArmatureBaseColor.png)
+[2022.06.17-16.44.30:713][870]LogTexture: Display: Building textures: ArmatureBaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.06.17-16.44.30:736][870]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.44.30:736][870]LogEditorFactories: -- imported successfully
+[2022.06.17-16.44.30:740][870]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/wood-texture-cedar-panel-house-exterior-red.jpg]
+[2022.06.17-16.44.30:748][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/wood-texture-cedar-panel-house-exterior-red.jpg)
+[2022.06.17-16.44.30:978][870]LogTexture: Display: Building textures: wood-texture-cedar-panel-house-exterior-red (BGRA8, 3201X4801)
+[2022.06.17-16.44.31:268][870]LogEditorFactories: -- imported successfully
+[2022.06.17-16.44.31:336][870]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/brick-texture-small-large-rough-surface-wall-photo.jpg]
+[2022.06.17-16.44.31:349][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/brick-texture-small-large-rough-surface-wall-photo.jpg)
+[2022.06.17-16.44.31:622][870]LogTexture: Display: Building textures: brick-texture-small-large-rough-surface-wall-photo (BGRA8, 3402X5103)
+[2022.06.17-16.44.32:023][870]LogEditorFactories: -- imported successfully
+[2022.06.17-16.44.32:146][870]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/Finnish-Grey-Brick-Flemish-Architextures.jpg]
+[2022.06.17-16.44.32:184][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/Finnish-Grey-Brick-Flemish-Architextures.jpg)
+[2022.06.17-16.44.32:238][870]LogTexture: Display: Building textures: Finnish-Grey-Brick-Flemish-Architextures (BGRA8, 900X730)
+[2022.06.17-16.44.32:273][870]LogEditorFactories: -- imported successfully
+[2022.06.17-16.44.32:279][870]LogEditorFactories: Performing atomic reimport of [D:/Inspiring/3D/Musee/Museum/PlatformBaseColor.png]
+[2022.06.17-16.44.32:279][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Inspiring/3D/Musee/Museum/PlatformBaseColor.png)
+[2022.06.17-16.44.32:299][870]LogTexture: Display: Building textures: PlatformBaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.06.17-16.44.32:321][870]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.44.32:321][870]LogEditorFactories: -- imported successfully
+[2022.06.17-16.44.32:324][870]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/triangled_roof_tiles_baked.png]
+[2022.06.17-16.44.32:386][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/triangled_roof_tiles_baked.png)
+[2022.06.17-16.44.32:519][870]LogTexture: Display: Building textures: triangled_roof_tiles_baked (OODLE_AutoDXT, 2048X2048)
+[2022.06.17-16.44.32:796][870]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.44.32:796][870]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.44.32:796][870]LogEditorFactories: -- imported successfully
+[2022.06.17-16.44.32:816][870]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/unknown.png]
+[2022.06.17-16.44.32:817][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/unknown.png)
+[2022.06.17-16.44.32:839][870]LogTexture: Display: Building textures: unknown (BGRA8, 626X601)
+[2022.06.17-16.44.32:856][870]LogEditorFactories: -- imported successfully
+[2022.06.17-16.45.01:393][480]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/unknown.png]
+[2022.06.17-16.45.01:394][480]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/unknown.png)
+[2022.06.17-16.45.01:412][480]LogTexture: Display: Building textures: unknown (BGRA8, 626X601)
+[2022.06.17-16.45.01:428][480]LogEditorFactories: -- imported successfully
+[2022.06.17-16.45.01:432][480]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/wood-texture-cedar-panel-house-exterior-red.jpg]
+[2022.06.17-16.45.01:440][480]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/wood-texture-cedar-panel-house-exterior-red.jpg)
+[2022.06.17-16.45.01:576][480]LogTexture: Display: Building textures: wood-texture-cedar-panel-house-exterior-red (BGRA8, 3201X4801)
+[2022.06.17-16.45.01:814][480]LogEditorFactories: -- imported successfully
+[2022.06.17-16.45.01:879][480]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/Finnish-Grey-Brick-Flemish-Architextures.jpg]
+[2022.06.17-16.45.01:881][480]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/Finnish-Grey-Brick-Flemish-Architextures.jpg)
+[2022.06.17-16.45.01:904][480]LogTexture: Display: Building textures: Finnish-Grey-Brick-Flemish-Architextures (BGRA8, 900X730)
+[2022.06.17-16.45.01:934][480]LogEditorFactories: -- imported successfully
+[2022.06.17-16.45.01:939][480]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/brick-texture-small-large-rough-surface-wall-photo.jpg]
+[2022.06.17-16.45.01:952][480]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/brick-texture-small-large-rough-surface-wall-photo.jpg)
+[2022.06.17-16.45.02:172][480]LogTexture: Display: Building textures: brick-texture-small-large-rough-surface-wall-photo (BGRA8, 3402X5103)
+[2022.06.17-16.45.02:550][480]LogEditorFactories: -- imported successfully
+[2022.06.17-16.45.02:673][480]LogEditorFactories: Performing atomic reimport of [C:/Users/mathe/Downloads/triangled_roof_tiles_baked.png]
+[2022.06.17-16.45.02:689][480]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/mathe/Downloads/triangled_roof_tiles_baked.png)
+[2022.06.17-16.45.02:814][480]LogTexture: Display: Building textures: triangled_roof_tiles_baked (OODLE_AutoDXT, 2048X2048)
+[2022.06.17-16.45.03:102][480]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.45.03:102][480]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.45.03:102][480]LogEditorFactories: -- imported successfully
+[2022.06.17-16.45.14:180][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.17-16.45.15:528][345]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-16.45.15:550][345]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/ART/Architecture/wood-texture-cedar-panel-house-exterior-red.wood-texture-cedar-panel-house-exterior-red
+	Asset Name: /Game/ART/Architecture/ArmatureBaseColor.ArmatureBaseColor
+	Asset Name: /Game/ART/Architecture/brick-texture-small-large-rough-surface-wall-photo.brick-texture-small-large-rough-surface-wall-photo
+	Asset Name: /Game/ART/Architecture/Clock.Clock
+	Asset Name: /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures.Finnish-Grey-Brick-Flemish-Architextures
+	Asset Name: /Game/ART/Architecture/PlatformBaseColor.PlatformBaseColor
+	Asset Name: /Game/ART/Architecture/triangled_roof_tiles_baked.triangled_roof_tiles_baked
+	Asset Name: /Game/ART/Architecture/unknown.unknown
+[2022.06.17-16.45.18:488][345]LogMaterial: Display: Missing cached shadermap for ArmatureBaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CBD3288E3B2F48B7C29D8FEBF7F724A252D17EA0), compiling. 
+[2022.06.17-16.45.18:502][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/ArmatureBaseColor_Mat.ArmatureBaseColor_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:502][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:503][345]LogMaterial: Display: Missing cached shadermap for ArmatureBaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CBD3288E3B2F48B7C29D8FEBF7F724A252D17EA0), compiling. 
+[2022.06.17-16.45.18:504][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/ArmatureBaseColor_Mat.ArmatureBaseColor_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:504][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:507][345]LogMaterial: Display: Missing cached shadermap for Clock_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C2B8C467896635EC3BE251380EDCE15E4C5877DC), compiling. 
+[2022.06.17-16.45.18:507][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/Clock_Mat.Clock_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:507][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:508][345]LogMaterial: Display: Missing cached shadermap for Clock_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C2B8C467896635EC3BE251380EDCE15E4C5877DC), compiling. 
+[2022.06.17-16.45.18:509][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/Clock_Mat.Clock_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:509][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:509][345]LogMaterial: Display: Missing cached shadermap for PlatformBaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 11908B623399B6B55E61B8172FAA68A4830EE11A), compiling. 
+[2022.06.17-16.45.18:510][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/PlatformBaseColor_Mat.PlatformBaseColor_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:510][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:510][345]LogMaterial: Display: Missing cached shadermap for PlatformBaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 11908B623399B6B55E61B8172FAA68A4830EE11A), compiling. 
+[2022.06.17-16.45.18:511][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/PlatformBaseColor_Mat.PlatformBaseColor_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:511][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:512][345]LogMaterial: Display: Missing cached shadermap for unknown_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 43FB1A208A88639C897D7A6DE2DA8D30644DC445), compiling. 
+[2022.06.17-16.45.18:512][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/unknown_Mat.unknown_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:512][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:513][345]LogMaterial: Display: Missing cached shadermap for unknown_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 43FB1A208A88639C897D7A6DE2DA8D30644DC445), compiling. 
+[2022.06.17-16.45.18:513][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/unknown_Mat.unknown_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:513][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:514][345]LogMaterial: Display: Missing cached shadermap for Finnish-Grey-Brick-Flemish-Architextures_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 37214EE019B13DB63A3F09CF9C6DCF2ED64978E5), compiling. 
+[2022.06.17-16.45.18:515][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.Finnish-Grey-Brick-Flemish-Architextures_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:515][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:515][345]LogMaterial: Display: Missing cached shadermap for Finnish-Grey-Brick-Flemish-Architextures_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 37214EE019B13DB63A3F09CF9C6DCF2ED64978E5), compiling. 
+[2022.06.17-16.45.18:516][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.Finnish-Grey-Brick-Flemish-Architextures_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:516][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:517][345]LogMaterial: Display: Missing cached shadermap for triangled_roof_tiles_baked_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AA067C8712331320317A38497DD8A67926DF3E31), compiling. 
+[2022.06.17-16.45.18:518][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/triangled_roof_tiles_baked_Mat.triangled_roof_tiles_baked_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:518][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:518][345]LogMaterial: Display: Missing cached shadermap for triangled_roof_tiles_baked_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AA067C8712331320317A38497DD8A67926DF3E31), compiling. 
+[2022.06.17-16.45.18:519][345]LogMaterial: Warning: [AssetLog] /Game/ART/Architecture/triangled_roof_tiles_baked_Mat.triangled_roof_tiles_baked_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.45.18:519][345]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.45.18:614][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.17-16.45.22:135][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathe\Downloads\brick-texture-small-large-rough-surface-wall-photo.jpg)
+[2022.06.17-16.45.22:261][687]LogTexture: Display: Building textures: brick-texture-small-large-rough-surface-wall-photo (BGRA8, 3402X5103)
+[2022.06.17-16.45.22:617][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathe\Downloads\triangled_roof_tiles_baked.png)
+[2022.06.17-16.45.22:719][687]LogTexture: Display: Building textures: triangled_roof_tiles_baked (OODLE_AutoDXT, 2048X2048)
+[2022.06.17-16.45.22:995][687]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.45.22:995][687]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.45.22:998][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathe\Downloads\unknown.png)
+[2022.06.17-16.45.23:006][687]LogTexture: Display: Building textures: unknown (BGRA8, 626X601)
+[2022.06.17-16.45.23:037][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathe\Downloads\wood-texture-cedar-panel-house-exterior-red.jpg)
+[2022.06.17-16.45.23:135][687]LogTexture: Display: Building textures: wood-texture-cedar-panel-house-exterior-red (BGRA8, 3201X4801)
+[2022.06.17-16.45.23:401][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\mathe\Downloads\Finnish-Grey-Brick-Flemish-Architextures.jpg)
+[2022.06.17-16.45.23:417][687]LogTexture: Display: Building textures: Finnish-Grey-Brick-Flemish-Architextures (BGRA8, 900X730)
+[2022.06.17-16.46.11:427][559]LogSlate: Window 'Replace References' being destroyed
+[2022.06.17-16.47.00:018][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.17-16.47.01:800][737]LogSlate: Window 'Save Content' being destroyed
+[2022.06.17-16.47.01:862][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/ArmatureBaseColor_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/ArmatureBaseColor_Mat.uasset" SILENT=true
+[2022.06.17-16.47.01:867][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/ArmatureBaseColor_Mat21633BD344E33DDF2A1406BFC8DD1430.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/ArmatureBaseColor_Mat.uasset'
+[2022.06.17-16.47.03:249][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/brick-texture-small-large-rough-4C7223FE45A396076835A9A2172D4E3C.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/brick-texture-small-large-rough-surface-wall-photo.uasset'
+[2022.06.17-16.47.03:268][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/Clock_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Clock_Mat.uasset" SILENT=true
+[2022.06.17-16.47.03:288][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/Clock_MatF1ED7D6B4ACACB0789715CB0D3BD0DBF.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Clock_Mat.uasset'
+[2022.06.17-16.47.03:343][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/Finnish-Grey-Brick-Flemish-ArchiB2AE629C4D4429582123F69C97BA8531.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures.uasset'
+[2022.06.17-16.47.03:398][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/Finnish-Grey-Brick-Flemish-Archi5E993E0643D834B5947E66938B9C2397.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.uasset'
+[2022.06.17-16.47.03:398][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/museum" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/museum.uasset" SILENT=true
+[2022.06.17-16.47.03:418][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/museum3FDB630143DD5185CC39349238AD76BF.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/museum.uasset'
+[2022.06.17-16.47.03:438][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/PlatformBaseColor_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/PlatformBaseColor_Mat.uasset" SILENT=true
+[2022.06.17-16.47.03:442][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/PlatformBaseColor_MatAD6831784A51307E3106C288D70A6EB4.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/PlatformBaseColor_Mat.uasset'
+[2022.06.17-16.47.03:741][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/triangled_roof_tiles_bakedC5EF0C53448B1D0623EFC3AE94E9DD89.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/triangled_roof_tiles_baked.uasset'
+[2022.06.17-16.47.03:765][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/triangled_roof_tiles_baked_Mat1B91B275466681098B04A8A57D09473C.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/triangled_roof_tiles_baked_Mat.uasset'
+[2022.06.17-16.47.03:771][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/unknown" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/unknown.uasset" SILENT=true
+[2022.06.17-16.47.03:798][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/unknown43CE0CBF490BC5BB5D7CAF8644EC3C00.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/unknown.uasset'
+[2022.06.17-16.47.03:818][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/unknown_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/unknown_Mat.uasset" SILENT=true
+[2022.06.17-16.47.03:822][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/unknown_Mat9679799F4B9D07CF55E09E8D38EE797B.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/unknown_Mat.uasset'
+[2022.06.17-16.47.04:857][737]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/wood-texture-cedar-panel-house-e27529DBA4D32ECEA56725D96ECD7E3CC.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/wood-texture-cedar-panel-house-exterior-red.uasset'
+[2022.06.17-16.47.04:891][737]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-16.47.04:891][737]LogContentValidation: Display: Validating Material /Game/ART/Architecture/ArmatureBaseColor_Mat.ArmatureBaseColor_Mat
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Material /Game/ART/Architecture/Clock_Mat.Clock_Mat
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Material /Game/ART/Architecture/PlatformBaseColor_Mat.PlatformBaseColor_Mat
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Material /Game/ART/Architecture/unknown_Mat.unknown_Mat
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Material /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.Finnish-Grey-Brick-Flemish-Architextures_Mat
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Material /Game/ART/Architecture/triangled_roof_tiles_baked_Mat.triangled_roof_tiles_baked_Mat
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures.Finnish-Grey-Brick-Flemish-Architextures
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/unknown.unknown
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/triangled_roof_tiles_baked.triangled_roof_tiles_baked
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/wood-texture-cedar-panel-house-exterior-red.wood-texture-cedar-panel-house-exterior-red
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/brick-texture-small-large-rough-surface-wall-photo.brick-texture-small-large-rough-surface-wall-photo
+[2022.06.17-16.47.04:892][737]LogContentValidation: Display: Validating StaticMesh /Game/ART/Architecture/museum.museum
+[2022.06.17-16.47.42:086][508]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Inspiring\3D\Musee\Museum\ArmatureBaseColor.png)
+[2022.06.17-16.47.42:106][508]LogTexture: Display: Building textures: ArmatureBaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.06.17-16.47.42:130][508]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.47.42:131][508]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Inspiring\3D\Musee\Museum\Clock.png)
+[2022.06.17-16.47.42:140][508]LogTexture: Display: Building textures: Clock (OODLE_AutoDXT, 1024X1024)
+[2022.06.17-16.47.42:161][508]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.47.42:161][508]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Inspiring\3D\Musee\Museum\PlatformBaseColor.png)
+[2022.06.17-16.47.42:168][508]LogTexture: Display: Building textures: PlatformBaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.06.17-16.47.42:191][508]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.17-16.48.03:639][460]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.Finnish-Grey-Brick-Flemish-Architextures_Mat
+[2022.06.17-16.48.03:702][460]LogMaterial: Display: Missing cached shadermap for Finnish-Grey-Brick-Flemish-Architextures_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2643F0C6E9FB5628831EC654DD7B8DC1B98A4A1E), compiling. 
+[2022.06.17-16.48.03:702][460]LogMaterial: Warning: [AssetLog] /Engine/Transient.Finnish-Grey-Brick-Flemish-Architextures_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.48.03:702][460]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.48.03:778][460]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.06.17-16.48.03:983][460]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.17-16.48.04:490][460]LogMaterial: Display: Missing cached shadermap for Finnish-Grey-Brick-Flemish-Architextures_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 52E3345EC1FED680CFEEC2F564CA16743C1BA33E), compiling. 
+[2022.06.17-16.48.04:490][460]LogMaterial: Warning: [AssetLog] /Engine/Transient.Finnish-Grey-Brick-Flemish-Architextures_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.48.04:490][460]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.48.04:512][460]LogMaterial: Display: Missing cached shadermap for Finnish-Grey-Brick-Flemish-Architextures_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3B439459B8E71A79E44BA91D7F2DF3425CB8E02A), compiling. 
+[2022.06.17-16.48.04:512][460]LogMaterial: Warning: [AssetLog] /Engine/Transient.Finnish-Grey-Brick-Flemish-Architextures_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.06.17-16.48.04:512][460]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.48.04:513][460]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CE2E4ACEBC1E6DA2488B39DD2ED1C036C4AF2A44), compiling. 
+[2022.06.17-16.48.05:273][460]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.06.17-16.48.21:301][ 66]LogSlate: Window 'Finnish-Grey-Brick-Flemish-Architextures_Mat' being destroyed
+[2022.06.17-16.48.21:305][ 66]LogSlate: Window 'Finnish-Grey-Brick-Flemish-Architextures_Mat' being destroyed
+[2022.06.17-16.48.21:331][ 66]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-16.48.21:331][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-16.48.31:115][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.17-16.48.34:285][ 62]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-16.48.34:304][ 62]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/ART/Architecture/ArmatureBaseColor_Mat.ArmatureBaseColor_Mat
+	Asset Name: /Game/ART/Architecture/Clock_Mat.Clock_Mat
+	Asset Name: /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.Finnish-Grey-Brick-Flemish-Architextures_Mat
+	Asset Name: /Game/ART/Architecture/PlatformBaseColor_Mat.PlatformBaseColor_Mat
+	Asset Name: /Game/ART/Architecture/triangled_roof_tiles_baked_Mat.triangled_roof_tiles_baked_Mat
+	Asset Name: /Game/ART/Architecture/unknown_Mat.unknown_Mat
+[2022.06.17-16.48.34:540][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.17-16.48.34:544][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.17-16.48.34:547][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.17-16.48.34:550][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.17-16.48.34:553][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.06.17-16.48.34:557][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.17-16.48.34:560][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.17-16.48.34:564][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.06.17-16.48.50:292][853]LogMaterial: Display: Missing cached shadermap for triangled_roof_tiles_baked_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 68E600F99F40AC471CF9287F1F7B4C7849A50EE8), compiling. 
+[2022.06.17-16.48.50:343][854]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.17-16.48.50:343][854]LogShaderCompilers: Display: Total job queries 207, among them cache hits 16 (7.73%)
+[2022.06.17-16.48.50:343][854]LogShaderCompilers: Display: Tracking 191 distinct input hashes that result in 82 distinct outputs (42.93%)
+[2022.06.17-16.48.50:343][854]LogShaderCompilers: Display: RAM used: 0.58 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.06.17-16.48.50:343][854]LogShaderCompilers: Display: ================================================
+[2022.06.17-16.49.00:908][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.06.17-16.49.01:788][ 41]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-16.49.01:841][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.17-16.49.01:859][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.17-16.49.01:862][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.17-16.49.04:797][360]LogMaterial: Display: Missing cached shadermap for unknown_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9313DB27DF632A0F29A724BFF01CF2AE9E1A8E62), compiling. 
+[2022.06.17-16.49.08:099][697]LogMaterial: Display: Missing cached shadermap for Finnish-Grey-Brick-Flemish-Architextures_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5D542121380A5408299C7DC7BE76B484FAF93702), compiling. 
+[2022.06.17-16.49.11:834][ 55]LogMaterial: Display: Missing cached shadermap for ArmatureBaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 36FE9460ACF886ADEB7C3B074063239AE0FC0606), compiling. 
+[2022.06.17-16.49.20:341][963]LogMaterial: Display: Missing cached shadermap for Clock_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0D6E90FC0DC7FCE317DDC615E0926EFD3A3430AC), compiling. 
+[2022.06.17-16.49.24:293][370]LogMaterial: Display: Missing cached shadermap for PlatformBaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9066D2113DE9F3770F2A9722BF73581403BADA11), compiling. 
+[2022.06.17-16.49.32:815][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.17-16.49.33:777][253]LogSlate: Window 'Save Content' being destroyed
+[2022.06.17-16.49.33:807][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/ArmatureBaseColor" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/ArmatureBaseColor.uasset" SILENT=true
+[2022.06.17-16.49.33:832][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/ArmatureBaseColorE9B8CB724691559B825DE8A961098093.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/ArmatureBaseColor.uasset'
+[2022.06.17-16.49.33:840][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/ArmatureBaseColor_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/ArmatureBaseColor_Mat.uasset" SILENT=true
+[2022.06.17-16.49.33:845][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/ArmatureBaseColor_Mat9694764B4F6BF972858C9AB8757DCB65.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/ArmatureBaseColor_Mat.uasset'
+[2022.06.17-16.49.33:851][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/Clock" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Clock.uasset" SILENT=true
+[2022.06.17-16.49.33:867][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/Clock165963AE4F1F4DCDDC70358EB7225EE1.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Clock.uasset'
+[2022.06.17-16.49.33:875][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/Clock_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Clock_Mat.uasset" SILENT=true
+[2022.06.17-16.49.33:879][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/Clock_MatD64F945F473986D44CE993B190612FC7.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Clock_Mat.uasset'
+[2022.06.17-16.49.33:892][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/Finnish-Grey-Brick-Flemish-ArchiCE97A8604FBF3530E89214BB04933B2A.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.uasset'
+[2022.06.17-16.49.33:897][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/PlatformBaseColor" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/PlatformBaseColor.uasset" SILENT=true
+[2022.06.17-16.49.33:909][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/PlatformBaseColor8212ED36419A5265E9C28DB20B8D8485.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/PlatformBaseColor.uasset'
+[2022.06.17-16.49.33:916][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/PlatformBaseColor_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/PlatformBaseColor_Mat.uasset" SILENT=true
+[2022.06.17-16.49.33:921][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/PlatformBaseColor_MatD6D1EA7A480D19A8041F228A48758522.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/PlatformBaseColor_Mat.uasset'
+[2022.06.17-16.49.33:926][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-16.49.33:987][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/ThirdPersonExampleMap9621C57D49F44DECA53226BBF5868219.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.17-16.49.33:994][253]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.072
+[2022.06.17-16.49.34:007][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/triangled_roof_tiles_baked_MatB574542C4183E1A4CB9640B957262B91.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/triangled_roof_tiles_baked_Mat.uasset'
+[2022.06.17-16.49.34:014][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Architecture/unknown_Mat" FILE="../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/unknown_Mat.uasset" SILENT=true
+[2022.06.17-16.49.34:038][253]LogSavePackage: Moving '../../../../../../UnrealProjects/journeeaumusee/Saved/unknown_Mat9EC3C393478B0D4BACD1BB8C4F7D4713.tmp' to '../../../../../../UnrealProjects/journeeaumusee/Content/ART/Architecture/unknown_Mat.uasset'
+[2022.06.17-16.49.34:047][253]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Material /Game/ART/Architecture/ArmatureBaseColor_Mat.ArmatureBaseColor_Mat
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/PlatformBaseColor.PlatformBaseColor
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/Clock.Clock
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Material /Game/ART/Architecture/PlatformBaseColor_Mat.PlatformBaseColor_Mat
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Material /Game/ART/Architecture/Clock_Mat.Clock_Mat
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Material /Game/ART/Architecture/Finnish-Grey-Brick-Flemish-Architextures_Mat.Finnish-Grey-Brick-Flemish-Architextures_Mat
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Texture2D /Game/ART/Architecture/ArmatureBaseColor.ArmatureBaseColor
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Material /Game/ART/Architecture/triangled_roof_tiles_baked_Mat.triangled_roof_tiles_baked_Mat
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating Material /Game/ART/Architecture/unknown_Mat.unknown_Mat
+[2022.06.17-16.49.34:047][253]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
