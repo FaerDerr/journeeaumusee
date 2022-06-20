@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UneJourneeAuMusee.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8F4E770E-0309-44EA-8CBC-D3A68791E7AE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UneJourneeAuMusee.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UneJourneeAuMuseeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{791AE956-0BE9-4FBB-82D1-3E3673DC780C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{A594BC44-FB3F-496D-AC61-ECD5C6CC58FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UDPCommunication_427_win64">
+      <UniqueIdentifier>{2F292F25-5C16-40F7-89B7-969CCBFFAD13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UDPCommunication_427_win64\Source">
+      <UniqueIdentifier>{454D9CFE-F404-4798-A80F-FD4AEF06C4DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UDPCommunication_427_win64\Source\UDPCommunication">
+      <UniqueIdentifier>{FBE3CBDD-ACCF-44C8-B064-2A54A4E23E7F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\UDPCommunication.Build.cs">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes">
+      <UniqueIdentifier>{7717D393-5B8B-47AA-92B2-7B3A4615982B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes\UDPData.h">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes\UDPReceiver.h">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes\UDPSender.h">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Private">
+      <UniqueIdentifier>{B6295ED7-A5A6-4964-910C-ACFF85673607}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Private\UDPCommunication.cpp">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public">
+      <UniqueIdentifier>{9B9AD2B4-7121-4ABD-8369-4D7ABFDE14A6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public\UDPCommunication.h">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public\UDPReceiver.cpp">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public\UDPSender.cpp">
+      <Filter>Plugins\UDPCommunication_427_win64\Source\UDPCommunication\Public</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\UDPCommunication_427_win64\UDPCommunication.uplugin">
+      <Filter>Plugins\UDPCommunication_427_win64</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication_427_win64\Resources">
+      <UniqueIdentifier>{010C0A16-EB34-499A-9947-C8634052F856}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication_427_win64\Resources\Icon128.png">
+      <Filter>Plugins\UDPCommunication_427_win64\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\UDPCommunication_427_win64\Resources\udp.png">
+      <Filter>Plugins\UDPCommunication_427_win64\Resources</Filter>
+    </None>
+    <Filter Include="Source\UneJourneeAuMusee">
+      <UniqueIdentifier>{71563341-E33F-4587-85C9-326802A0DA8B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UneJourneeAuMusee\MyClass.cpp">
+      <Filter>Source\UneJourneeAuMusee</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UneJourneeAuMusee\MyClass.h">
+      <Filter>Source\UneJourneeAuMusee</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UneJourneeAuMusee\UneJourneeAuMusee.Build.cs">
+      <Filter>Source\UneJourneeAuMusee</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UneJourneeAuMusee\UneJourneeAuMusee.cpp">
+      <Filter>Source\UneJourneeAuMusee</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UneJourneeAuMusee\UneJourneeAuMusee.h">
+      <Filter>Source\UneJourneeAuMusee</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

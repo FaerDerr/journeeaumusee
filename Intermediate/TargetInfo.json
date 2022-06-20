@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UneJourneeAuMusee",
+			"Path": "C:\\Users\\XXLdu\\OneDrive\\Documents\\GitHub\\journeeaumusee\\Source\\UneJourneeAuMusee.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UneJourneeAuMuseeEditor",
+			"Path": "C:\\Users\\XXLdu\\OneDrive\\Documents\\GitHub\\journeeaumusee\\Source\\UneJourneeAuMuseeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
