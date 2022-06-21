@@ -1615,3 +1615,160 @@ Make sure 'Stealable_BIG_C' has been compiled for  Get Item score
 [2022.06.21-09.07.49:482][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.06.21-09.07.49:482][207]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2022.06.21-09.07.58:963][332]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.06.21-09.14.50:581][667]MapCheck: New page: Map Check
+[2022.06.21-09.14.50:592][667]Cmd: MAP REBUILD ALLVISIBLE
+[2022.06.21-09.14.50:593][667]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.06.21-09.14.50:712][667]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.06.21-09.14.50:843][667]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.06.21-09.14.50:843][667]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.06.21-09.14.50:843][667]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.06.21-09.14.50:882][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.21-09.14.50:940][667]LogLevel: Display: Export Material TexCoord Scales took 0.057 seconds.
+[2022.06.21-09.14.50:946][667]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2022.06.21-09.14.50:976][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.21-09.14.50:978][667]LightingResults: New page: Lighting Build - 21 juin 2022 à 13:14:50
+[2022.06.21-09.14.50:984][667]LightingResults: Warning: InstancedFoliageActor_2 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.06.21-09.14.50:984][667]LightingResults: Warning: InstancedFoliageActor_2 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2022.06.21-09.14.50:995][667]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.06.21-09.14.50:996][667]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.06.21-09.14.50:996][667]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.06.21-09.14.50:997][667]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.06.21-09.14.50:997][667]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8716
+[2022.06.21-09.14.55:677][667]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.06.21-09.14.55:677][667]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.06.21-09.14.55:677][667]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.06.21-09.14.55:677][667]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.06.21-09.14.55:677][667]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.06.21-09.14.55:864][667]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.06.21-09.14.55:864][667]MapCheck: New page: ThirdPersonExampleMap - 21 juin 2022 à 13:14:55
+[2022.06.21-09.14.55:865][667]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,874ms to complete.
+[2022.06.21-09.14.55:867][667]LogEditorBuildUtils: Build time 0:05
+[2022.06.21-09.14.55:885][667]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.21-09.14.55:885][667]LogShaderCompilers: Display: Total job queries 170, among them cache hits 0 (0.00%)
+[2022.06.21-09.14.55:885][667]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 59 distinct outputs (42.75%)
+[2022.06.21-09.14.55:885][667]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.06.21-09.14.55:885][667]LogShaderCompilers: Display: ================================================
+[2022.06.21-09.14.56:157][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.06.21-09.14.57:241][682]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.06.21-09.16.16:751][373]LightingResults: Warning: museum Object has overlapping UVs.
+[2022.06.21-09.16.16:751][373]LightingResults: museum Lightmap UV are overlapping by 52.3%. Please adjust content - Enable Error Coloring to visualize.
+[2022.06.21-09.17.40:810][196]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.21-09.17.40:817][196]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.21-09.17.40:850][196]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.21-09.17.41:866][256]Job is a success!
+[2022.06.21-09.17.41:902][257]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2022.06.21-09.17.41:902][257]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.06.21-09.17.41:906][257]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.068s
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:      Bricks at depth
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:          1: 11.2% covering 14.8% of volume
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:          2: 87.6% covering 1.8% of volume
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:      Bricks in each level
+[2022.06.21-09.17.42:049][257]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 340 bricks 	 100.0% (Persistent Level)
+[2022.06.21-09.17.59:641][257]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 8192X4096)
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 8192X8192)
+[2022.06.21-09.17.59:641][257]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 8192X8192)
+[2022.06.21-09.17.59:641][257]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2022.06.21-09.17.59:641][257]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.21-09.17.59:641][257]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.21-09.18.00:053][257]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2022.06.21-09.18.03:618][257]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 4096X4096)
+[2022.06.21-09.18.03:748][257]Lightmass on LAPTOP-7BN1IGFQ: 3:06 min total, 457 ms importing, 2.53 sec setup, 30.2 sec photons, 2:33 min processing, 0 ms extra exporting [11658/11658 mappings]. Threads: 17:52 min total, 10:19 min processing.
+[2022.06.21-09.18.03:758][257]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 147 meshes in 3 LightmapResourceClusters (49.0 Meshes per cluster).
+[2022.06.21-09.18.03:869][257]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2022.06.21-09.18.03:927][257]LogStaticLightingSystem: Illumination: 3:12 min (12.7 sec encoding lightmaps, 3.97 sec encoding shadowmaps)
+[2022.06.21-09.18.03:927][257]LogStaticLightingSystem: Lightmap texture memory:  170.7 MB (170.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.06.21-09.18.03:927][257]LogStaticLightingSystem: Shadowmap texture memory: 21.3 MB (21.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.06.21-09.18.04:770][257]DumpUnbuiltLightIteractions
+[2022.06.21-09.18.04:770][257]Lights with unbuilt interactions: 0
+[2022.06.21-09.18.04:770][257]
+[2022.06.21-09.18.04:770][257]Primitives with unbuilt interactions: 0
+[2022.06.21-09.18.04:794][257]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.21-09.18.04:794][257]LogShaderCompilers: Display: Total job queries 170, among them cache hits 0 (0.00%)
+[2022.06.21-09.18.04:794][257]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 59 distinct outputs (42.75%)
+[2022.06.21-09.18.04:794][257]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.06.21-09.18.04:794][257]LogShaderCompilers: Display: ================================================
+[2022.06.21-09.18.04:950][257]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.06.21-09.18.05:054][258]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.06.21-09.18.05:054][258]MapCheck: New page: ThirdPersonExampleMap - 21 juin 2022 à 13:18:05
+[2022.06.21-09.18.05:055][258]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,199ms to complete.
+[2022.06.21-09.18.10:415][556]LogSlate: Window 'Message Log' being destroyed
+[2022.06.21-09.18.10:419][556]LogSlate: Window 'Message Log' being destroyed
+[2022.06.21-09.18.17:931][  3]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2022.06.21-09.18.17:931][  3]LogContentBrowser: Attempting asset rename: NewBlueprint -> Room
+[2022.06.21-09.18.17:947][  3]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Room.Room:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2022.06.21-09.18.17:947][  3]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Room.SKEL_Room_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2022.06.21-09.18.17:947][  3]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Room.SKEL_Room_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2022.06.21-09.18.17:947][  3]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Room.Room_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2022.06.21-09.18.17:947][  3]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Room.Room:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2022.06.21-09.18.17:947][  3]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Room.Room:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2022.06.21-09.18.17:947][  3]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Room.Room:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2022.06.21-09.18.17:973][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Room" FILE="../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Blueprints/Room.uasset" SILENT=true
+[2022.06.21-09.18.17:976][  3]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/RoomB6EDCF794164C1808C3D2C969C71E045.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Blueprints/Room.uasset'
+[2022.06.21-09.18.18:023][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.06.21-09.18.18:057][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.06.21-09.18.18:086][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.21-09.18.18:175][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.21-09.18.18:328][  3]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_Auto16234CCA04B38056534B82B8D785D7708.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.06.21-09.18.18:330][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.185
+[2022.06.21-09.18.18:330][  3]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.185
+[2022.06.21-09.18.18:352][  4]AssetCheck: New page: Asset Save: Room
+[2022.06.21-09.18.18:352][  4]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Room.Room
+[2022.06.21-09.18.29:996][699]LogContentBrowser: Attempting asset rename: Room -> RoomLocation
+[2022.06.21-09.18.30:011][699]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Room.PackageMetaData'
+[2022.06.21-09.18.30:011][699]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RoomLocation.SKEL_RoomLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Room.PackageMetaData'
+[2022.06.21-09.18.30:011][699]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RoomLocation.SKEL_RoomLocation_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Room.PackageMetaData'
+[2022.06.21-09.18.30:011][699]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Room.PackageMetaData'
+[2022.06.21-09.18.30:011][699]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Room.PackageMetaData'
+[2022.06.21-09.18.30:011][699]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Room.PackageMetaData'
+[2022.06.21-09.18.30:011][699]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Room.PackageMetaData'
+[2022.06.21-09.18.30:050][699]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/RoomLocation66D47A22428AA64D15749F8658F8DC88.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Blueprints/RoomLocation.uasset'
+[2022.06.21-09.18.30:130][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.06.21-09.18.30:166][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.06.21-09.18.30:196][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.21-09.18.30:269][699]AssetCheck: New page: Asset Save: RoomLocation
+[2022.06.21-09.18.30:269][699]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation
+[2022.06.21-09.18.32:545][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation
+[2022.06.21-09.18.43:467][469]BlueprintLog: New page: Compile RoomLocation
+[2022.06.21-09.18.43:517][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.06.21-09.18.44:420][522]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/RoomLocation0355F85D4C3693E3E243D7A6A3213327.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Blueprints/RoomLocation.uasset'
+[2022.06.21-09.18.44:434][522]AssetCheck: New page: Asset Save: RoomLocation
+[2022.06.21-09.18.44:434][522]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/RoomLocation.RoomLocation
+[2022.06.21-09.19.21:654][738]Cmd: TRANSACTION UNDO
+[2022.06.21-09.19.21:654][738]LogEditorTransaction: Undo Set Scale
+[2022.06.21-09.23.08:571][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.06.21-09.23.08:727][247]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap77C6B4C04EA724189A6B808148BC78B7.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.21-09.23.13:359][247]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltData5D2CC8DB45EC07E4E8E990A5954BBABB.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.21-09.23.13:402][247]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-09.23.13:402][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.21-09.23.13:402][247]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.21-09.26.11:391][781]Cmd: TRANSACTION UNDO
+[2022.06.21-09.26.11:391][781]LogEditorTransaction: Undo Scale Actors
+[2022.06.21-09.27.48:683][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (museum)
+[2022.06.21-09.27.51:185][710]Cmd: SELECT NONE
+[2022.06.21-09.27.57:397][ 81]Cmd: SELECT NONE
+[2022.06.21-09.30.16:580][359]Cmd: SELECT NONE
+[2022.06.21-09.31.27:335][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_WORLD)
+[2022.06.21-09.31.28:788][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_ground)
+[2022.06.21-09.32.36:264][664]Cmd: SELECT NONE
+[2022.06.21-09.33.57:794][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.06.21-09.33.57:978][504]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMapFB1507884FCC1B07DE1724ADB5507356.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.21-09.34.03:057][504]LogSavePackage: Moving '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Saved/ThirdPersonExampleMap_BuiltDataC4DDBB1042AA6F5F04E8AFB526C7231F.tmp' to '../../../../../../Users/XXLdu/OneDrive/Documents/GitHub/journeeaumusee/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.06.21-09.34.03:098][504]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.21-09.34.03:099][504]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.06.21-09.34.03:099][504]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
